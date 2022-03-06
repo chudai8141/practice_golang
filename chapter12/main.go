@@ -64,7 +64,7 @@ func main() {
 	*/
 
 	/*
-			cmd := "SELECT * FROM persons"
+		cmd := "SELECT * FROM persons"
 		rows, _ := Db.Query(cmd)
 		defer rows.Close()
 
